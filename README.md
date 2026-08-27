@@ -57,6 +57,6 @@ Status
 🎯 Goal
 CiviAI aims to help citizens report civic problems easily while helping authorities prioritize and route complaints efficiently.
 🔗 Developer Profiles
-GitHub: Ankit Jaiswal
-LinkedIn: Ankit Jaiswal 
+GitHub: Ankit Jaiswal (https://github.com/ankitjaiswal13-blip)
+LinkedIn: Ankit Jaiswal (https://www.linkedin.com/in/ankit-jaiswal-74b570242/)
 
