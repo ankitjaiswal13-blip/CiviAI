@@ -43,6 +43,7 @@ I am an ECE student interested in technology, AI, software development, and buil
 Create and activate the virtual environment, install the required dependencies, and run:
 
 ```bash
+python app.py
 📊 Example Output
 A submitted complaint is analyzed and displayed with:
 Complaint ID
@@ -58,4 +59,4 @@ CiviAI aims to help citizens report civic problems easily while helping authorit
 🔗 Developer Profiles
 GitHub: Ankit Jaiswal
 LinkedIn: Ankit Jaiswal 
-python app.py
+
