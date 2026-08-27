@@ -44,3 +44,20 @@ Create and activate the virtual environment, install the required dependencies, 
 
 ```bash
 python app.py
+📊 Example Output
+A submitted complaint is analyzed and displayed with:
+Complaint ID
+Issue
+Severity
+Priority Score
+Department
+Location
+Photo
+Status
+🎯 Goal
+CiviAI aims to help citizens report civic problems easily while helping authorities prioritize and route complaints efficiently.
+🔗 Developer Profiles
+GitHub: Ankit Jaiswal
+LinkedIn: Ankit Jaiswal 
+
+But these details are not showing 
